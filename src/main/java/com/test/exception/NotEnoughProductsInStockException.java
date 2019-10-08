@@ -3,7 +3,7 @@ package com.test.exception;
 import com.test.model.Product;
 
 /**
- * @author jpetroni
+ * @author miarjona
  *
  */
 @SuppressWarnings("serial")
